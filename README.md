@@ -39,12 +39,21 @@ Evaluate model performance using metrics like accuracy, precision, recall, F1-sc
 Feature Importance:
 
 Visualize feature importance to identify key predictive features.
+
 Setup Instructions
+
 Prerequisites
+
 Python 3.8 or higher
+
 Required Python libraries:
+
 pandas
+
 numpy
+
 seaborn
+
 matplotlib
+
 scikit-learn
